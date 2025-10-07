@@ -7,13 +7,14 @@ Study in **Lviv National University** 🎓
 ---
 
 ## 💻 Skills
-- 🖥 **C++**![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- 🐍 **some Python**
-- 🌐 **a bit of HTML 5.0 / CSS**
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🐍 **some**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🌐 **a bit of**![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ## 📈 GitHub Stats
-![Rostik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rostikzaiats&show_icons=true&theme=radical)
+![Rostik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rostikzaiats&show_icons=true&theme=radical) **&**  ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
+
 
 ---
 

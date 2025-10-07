@@ -2,7 +2,7 @@
 
 **Trying to be a **programmer** 🐵  
 Study in **Lviv National University** 🎓  
-📍**Lviv, Ukraine **
+📍**Lviv, Ukraine**
 ---
 
 ## 💻 Skills

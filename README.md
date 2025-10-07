@@ -6,7 +6,7 @@ Study in **Lviv National University** 🎓
 ---
 
 ## 💻 Skills
-- 🖥 **C++**
+- 🖥 **basic C++**
 - 🐍 **some Python**
 - 🌐 **a bit of HTML / CSS skills**
 

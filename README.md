@@ -6,7 +6,7 @@ Study in **Lviv National University** 🎓
 
 
 ## 💻 Skills
-- 🖥 **C++: С++ 17, STL, Tempates, OOP, alghoritms, Threads**
+- 🖥 **C++: С++ 17, STL, Templates, OOP, alghoritms, Threads**
 - 🐍 **litle bit Python - continue learning**
 - 🌐 **understand of HTML / CSS skills**
 

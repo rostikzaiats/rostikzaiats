@@ -1,6 +1,5 @@
 # 😝 Hi, all! I`m Rostik 👋
-
-Trying to be a **programmer** 🐵  
+ 
 Study in **Lviv National University** 🎓  
 📍Lviv, Ukraine
 
